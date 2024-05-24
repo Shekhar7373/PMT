@@ -1,4 +1,4 @@
 <?php
-echo "Hello"
-echo "Creating Shopping website"
+echo "Hello";
+echo "Creating Shopping website";
 ?>
